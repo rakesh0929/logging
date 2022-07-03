@@ -1,0 +1,10 @@
+ERROR : root : 2022-07-03 20:04:32,274 : division by zero 
+Traceback (most recent call last):
+  File "C:/Users/USER/PycharmProjects/ineuron_codes/logging_topics_exception/test3.py", line 8, in divide_two_numbers
+    div =  a/b
+ZeroDivisionError: division by zero
+ERROR : root : 2022-07-03 20:14:18,655 : division by zero 
+Traceback (most recent call last):
+  File "C:/Users/USER/PycharmProjects/ineuron_codes/logging_topics_exception/test3.py", line 8, in divide_two_numbers
+    div =  a/b
+ZeroDivisionError: division by zero

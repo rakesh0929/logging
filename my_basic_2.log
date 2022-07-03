@@ -1,0 +1,32 @@
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+INFO:root:4
+INFO:root:6
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+INFO:root:4
+INFO:root:6
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+INFO:root:4
+INFO:root:6
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+WARNING:root:the list has the even numbr and it is printred
+INFO:root:4
+WARNING:root:the list has the even numbr and it is printred
+INFO:root:6
+WARNING:root:the list has the even numbr and it is printred
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+ERROR:root:this is a system error
+INFO:root:2
+WARNING:root:the list has the even numbr and it is printred
+INFO:root:4
+WARNING:root:the list has the even numbr and it is printred
+INFO:root:6
+WARNING:root:the list has the even numbr and it is printred

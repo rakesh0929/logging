@@ -1,0 +1,10 @@
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+INFO:root:4
+INFO:root:6
+INFO:root:hey hi logging
+WARNING:root:hey logging this is a warning!
+INFO:root:2
+INFO:root:4
+INFO:root:6
